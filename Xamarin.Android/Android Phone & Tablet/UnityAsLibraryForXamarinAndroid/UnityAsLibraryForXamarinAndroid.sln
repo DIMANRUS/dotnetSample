@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityAsLibraryForXamarinAndroid", "UnityAsLibraryForXamarinAndroid\UnityAsLibraryForXamarinAndroid.csproj", "{DE496892-1873-40C1-95EE-03E7FCAEEC71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLibrary", "UnityLibrary\UnityLibrary.csproj", "{19316944-9ACC-4AB4-8645-FB7D363A4DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE496892-1873-40C1-95EE-03E7FCAEEC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE496892-1873-40C1-95EE-03E7FCAEEC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE496892-1873-40C1-95EE-03E7FCAEEC71}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DE496892-1873-40C1-95EE-03E7FCAEEC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE496892-1873-40C1-95EE-03E7FCAEEC71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE496892-1873-40C1-95EE-03E7FCAEEC71}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{19316944-9ACC-4AB4-8645-FB7D363A4DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19316944-9ACC-4AB4-8645-FB7D363A4DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19316944-9ACC-4AB4-8645-FB7D363A4DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19316944-9ACC-4AB4-8645-FB7D363A4DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A723C8B-8B3D-44AD-9687-80F1E8302E74}
+	EndGlobalSection
+EndGlobal
