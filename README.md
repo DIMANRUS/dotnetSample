@@ -1,2 +1,2 @@
-# XamarinExamples
+# dotNetSample
 dotnetSample
